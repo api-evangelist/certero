@@ -1,0 +1,33 @@
+aid: certero
+name: Certero
+description: >-
+  Certero is an IT asset management platform providing software license management, SaaS management, and cloud cost optimization.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - IT Asset Management
+  - License Management
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/certero/refs/heads/main/apis.yml
+created: '2026-03-27'
+modified: '2026-03-27'
+specificationVersion: '0.19'
+apis:
+  - aid: certero:certero
+    name: Certero
+    description: >-
+      Certero is an IT asset management platform providing software license management, SaaS management, and cloud cost optimization.
+    humanURL: https://www.certero.com
+    tags:
+      - IT Asset Management
+    properties:
+      - type: Documentation
+        url: https://www.certero.com/resources
+common:
+  - type: Website
+    url: https://www.certero.com
+  - type: Documentation
+    url: https://www.certero.com/resources
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
