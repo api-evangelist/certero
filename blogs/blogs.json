@@ -1,0 +1,13 @@
+{
+  "repo": "certero",
+  "feeds": [
+    {
+      "source": "https://www.certero.com/blog/",
+      "feed_url": "https://www.certero.com/blog/feed/",
+      "saved": 10,
+      "title": "Blog \u2013 Certero"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:25:04Z"
+}
