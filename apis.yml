@@ -213,6 +213,8 @@ common:
       - name: AWS
       - name: Azure
       - name: Google Cloud
+  - type: LLMsTxt
+    url: https://certero.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
