@@ -2,12 +2,17 @@
   "repo": "certero",
   "feeds": [
     {
-      "source": "https://www.certero.com/blog/",
+      "source": "https://www.certero.com/blog/feed/",
       "feed_url": "https://www.certero.com/blog/feed/",
-      "title": "Blog \u2013 Certero",
-      "saved": 5
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.certero.com/resources/",
+      "error": "HTTPError"
     }
   ],
-  "post_count": 15,
-  "fetched": "2026-05-17T20:20:35Z"
+  "post_count": 19,
+  "fetched": "2026-06-01T23:35:02Z"
 }
