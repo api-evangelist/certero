@@ -1,0 +1,51 @@
+# Certero
+
+> Visibility, Optimization, Management and Governance — across ITAM, SAM, SaaS, Cloud and AI.
+
+CerteroX unifies ITAM, SAM, SaaS Management, Cloud Management and AI Management on one platform — so every technology asset you own has one owner, one cost and one compliance position.
+
+## Products
+
+- [CerteroX ITAM](https://www.certero.com/products/itam): Discover and inventory every device across Windows, macOS, Linux, AIX, HP-UX, Solaris, mobile, virtual and cloud — with one agent, one schema and no blind spots to explain away
+- [CerteroX SAM](https://www.certero.com/products/sam): Publisher-grade licence engines for Microsoft, Oracle, IBM, SAP, Adobe and Salesforce — with the entitlement maths, the evidence and the effective licence position computed continuously, not the week the letter arrives
+- [CerteroX SaaS Management](https://www.certero.com/products/saas-management): Three discovery signals converge: the identity provider, vendor APIs and a browser extension. Together they surface every application in use, then reclaim the licences, revoke the grants and close the offboarding gap automatically
+- [CerteroX Cloud Management](https://www.certero.com/products/cloud-management): A named, tunable optimization engine across twelve cloud and data platforms, with the policy, budget and lifecycle controls to stop the waste coming back next month
+- [CerteroX AI Management](https://www.certero.com/products/ai-management): Track the models, the experiments, the GPUs and the seats — from a hyperparameter sweep on a training cluster to the ChatGPT subscription someone expensed. One asset class, governed like every other
+
+## The federation layer
+
+- [CerteroX Command Centre](https://www.certero.com/products/command-centre): Five disciplines report into one store. Federated visibility, governance, topology, virtualisation and dependency across all of them, with a monthly KPI series per domain in your own currency
+
+## Solutions by challenge
+
+- [Survive a software audit](https://www.certero.com/solutions/audit-defence): A software audit gives you ninety days. CerteroX computes the effective licence position continuously, across installs, usage, entitlement, exclusions and evidence, so the response is a review rather than a reconstruction
+- [Cut cloud waste](https://www.certero.com/solutions/cloud-waste): Twenty-six named, tunable checks across twelve cloud and data platforms, plus the ownership, budget and lifecycle policy that stops the waste returning next month
+- [Eliminate SaaS sprawl](https://www.certero.com/solutions/saas-sprawl): Three converging discovery signals surface every application in use, sanctioned or not, then the licence engine reclaims the seats, ranks the overlap and puts a date on every renewal
+- [Govern AI adoption](https://www.certero.com/solutions/ai-governance): The expensed seat, the API key, the GPU fleet and the agent calling your systems are four different governance problems. CerteroX governs all four on one platform
+- [Close the offboarding gap](https://www.certero.com/solutions/offboarding): Disabling the account is step one of twenty. CerteroX enumerates every licence a leaver held, revokes it at the vendor, and shows you the per-licence status until the list is empty
+- [Fix the CMDB nobody trusts](https://www.certero.com/solutions/cmdb-accuracy): The Certero ServiceNow Application synchronises enriched inventory from CerteroX into the ServiceNow CMDB on a schedule — computers with their disks, adapters, memory, volumes and software, each on its own datasource
+- [Answer the board in one number](https://www.certero.com/solutions/boardroom-numbers): The question that crosses ITAM, SAM, SaaS and cloud at once, and the federation layer that answers it — three feeds into one store, five disciplines reporting in, and a monthly KPI series per domain in your own currency
+
+## Solutions by vendor exposure
+
+- [Oracle](https://www.certero.com/solutions/oracle): Options and packs with evidence and override, processor types and core factors, licence pools, cover-down and ULA handling, from an Oracle Verified Third-Party Tool Vendor
+- [IBM](https://www.certero.com/solutions/ibm): PVU and Virtual Processor Core metrics, an ILMT connector with compliance gap analysis, Component Resolution and enforcement of the thirty-minute inventory cycle sub-capacity actually requires
+- [Microsoft](https://www.certero.com/solutions/microsoft): Device and user CALs, external connectors, SQL Server and Windows Server core licensing with cluster and virtualisation awareness, MLS import and M365 seat reclamation
+- [SAP](https://www.certero.com/solutions/sap): A non-invasive ABAP connector reads named users, roles, role groups, engines and authorisation definitions. Priority-ordered Analysis Rules propose the licence type each user should hold
+- [Salesforce](https://www.certero.com/solutions/salesforce): Standard licences and permission set licences read from the vendor, matched to who actually signs in, then reclaimed, reassigned or downgraded before the renewal quote is written
+
+## The company
+
+- [The platform](https://www.certero.com/platform): One data model across ITAM, SAM, SaaS, Cloud and AI, and what that changes
+- [Why CerteroX](https://www.certero.com/why-certerox): How this differs from a portfolio assembled by acquisition
+- [About Certero](https://www.certero.com/company): Building IT asset management software since 2007. Privately owned and independent
+- [Customers](https://www.certero.com/customers): Named organisations, with their own published case studies
+- [Integrations](https://www.certero.com/integrations): The named connectors and what each one actually reads
+- [ROI calculator](https://www.certero.com/roi-calculator): An indicative annual figure built only from published third-party research
+- [Contact](https://www.certero.com/contact): Offices in the UK, United States and Australia
+
+## Notes
+
+- Every figure attributed to a third party is cited on the page that prints it.
+- Product consoles shown on the site carry illustrative sample data and are labelled as such.
+- Full URL list: https://www.certero.com/sitemap-index.xml
