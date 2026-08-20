@@ -88,6 +88,10 @@ apis:
     tags:
       - SaaS Management
       - Shadow IT
+      - Subscription
+    tags_raw:
+      - SaaS Management
+      - Shadow IT
       - Subscriptions
     properties:
       - type: Documentation
@@ -115,6 +119,11 @@ apis:
       recommendations.
     humanURL: https://www.certero.com/products/command-center/
     tags:
+      - Artificial Intelligence
+      - Analytics
+      - Dashboard
+      - Reporting
+    tags_raw:
       - AI
       - Analytics
       - Dashboard
