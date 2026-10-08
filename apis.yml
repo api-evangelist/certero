@@ -159,6 +159,12 @@ apis:
       - type: Marketplace
         url: https://store.servicenow.com/
 common:
+  - type: Plans
+    url: plans/certero-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/certero-rate-limits.yml
+  - type: FinOps
+    url: finops/certero-finops.yml
   - type: DomainSecurity
     url: security/certero-domain-security.yml
   - type: Website
