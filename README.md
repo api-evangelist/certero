@@ -1,4 +1,4 @@
-# Certero (certero)
+# Certero
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,108 +66,109 @@
 
 Certero is an enterprise IT Asset Management (ITAM) software vendor whose flagship CerteroX platform unifies visibility, observability, management, and governance across hardware, software, SaaS, and multi-cloud environments. The CerteroX suite includes CerteroX ITAM (hardware and network discovery), CerteroX SAM (software license optimization with publisher-specific modules for IBM, Microsoft, Oracle, SAP, and Salesforce), CerteroX SaaS (subscription and shadow-IT management), CerteroX Cloud (FinOps for AWS, Azure, and GCP), and the CerteroX Command Center / AI reporting fabric. The platform is FinOps Foundation certified and integrates with ServiceNow, Microsoft, and Oracle ecosystems via APIs and connectors.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/certero/refs/heads/main/apis.yml)
+**Areas:** Cloud Management · FinOps · Hardware Asset Management · IT Asset Management · ITAM · License Management · SaaS Management · Software Asset Management · Software Licensing
 
-## Scope
+## Certero on APIs.io
 
-- **Type:** Index
+Everything profiled for Certero is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/certero/](https://apis.io/providers/certero/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### APIs (6)
 
-- IT Asset Management, ITAM, Software Asset Management, SaaS Management, Cloud Management, FinOps, License Management, Hardware Asset Management
+- [CerteroX ITAM](https://apis.io/apis/certero/certerox-itam/) — CerteroX ITAM is Certero's IT asset management module that discovers, inventories, and tracks hardware assets, network devices, and end-user computing…
+- [CerteroX SAM](https://apis.io/apis/certero/certerox-sam/) — CerteroX SAM (Software Asset Management) provides license entitlement management, software usage analytics, compliance reporting, and optimization for…
+- [CerteroX SaaS](https://apis.io/apis/certero/certerox-saas/) — CerteroX SaaS is the SaaS management module that discovers sanctioned and shadow SaaS subscriptions, monitors usage, governs renewals, and identifies…
+- [CerteroX Cloud](https://apis.io/apis/certero/certerox-cloud/) — CerteroX Cloud delivers FinOps cost optimization, usage observability, and governance across AWS, Microsoft Azure, and Google Cloud, helping enterprises…
+- [CerteroX Command Center / AI](https://apis.io/apis/certero/certerox-command-center/) — CerteroX Command Center / AI is the federated reporting and analytics surface that aggregates data from the ITAM, SAM, SaaS, and Cloud modules into a single…
+- [Certero ServiceNow Integration](https://apis.io/apis/certero/certero-servicenow-integration/) — Certero offers a certified ServiceNow integration that synchronises hardware, software, and license data from CerteroX into the ServiceNow CMDB and SAM Pro…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-27
-- **Modified:** 2026-04-23
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-### CerteroX ITAM
-Discovers, inventories, and tracks hardware assets, network devices, and end-user computing across on-premises, cloud, and remote environments.
+Authentication, trust centre, and vulnerability disclosure.
 
-**Human URL:** [https://www.certero.com/products/itam/](https://www.certero.com/products/itam/)
+- [Certero Domain Security](https://apis.io/security/certero/certero-domain-security/)
 
-#### Tags
-- ITAM, Hardware, Asset Discovery, CMDB, Lifecycle
+#### Plans and pricing (1)
 
-#### Properties
-- [Documentation](https://www.certero.com/products/itam/)
+Published plans, tiers and prices.
 
-### CerteroX SAM
-Software Asset Management with license entitlement management, usage analytics, compliance reporting, and optimization including publisher-specialised editions for IBM, Microsoft, Oracle, SAP, and Salesforce.
+- [Certero Plans Pricing](https://apis.io/plans/certero/certero-plans-pricing/)
 
-**Human URL:** [https://www.certero.com/products/sam/](https://www.certero.com/products/sam/)
+#### Rate limits (1)
 
-#### Tags
-- SAM, Software Asset Management, License Optimization, Compliance
+Published request limits.
 
-#### Properties
-- [Documentation](https://www.certero.com/products/sam/)
+- [Certero Rate Limits](https://apis.io/rate-limits/certero/certero-rate-limits/)
 
-### CerteroX SaaS
-SaaS management module that discovers sanctioned and shadow SaaS subscriptions, monitors usage, governs renewals, and identifies cost-saving opportunities.
+#### FinOps (1)
 
-**Human URL:** [https://www.certero.com/products/saas-management/](https://www.certero.com/products/saas-management/)
+What the API costs to run, by operation.
 
-#### Tags
-- SaaS Management, Shadow IT, Subscriptions
+- [Certero Finops](https://apis.io/finops/certero/certero-finops/)
 
-#### Properties
-- [Documentation](https://www.certero.com/products/saas-management/)
+## Where to find this API
 
-### CerteroX Cloud
-FinOps cost optimization, usage observability, and governance across AWS, Microsoft Azure, and Google Cloud.
-
-**Human URL:** [https://www.certero.com/products/cloud-management/](https://www.certero.com/products/cloud-management/)
-
-#### Tags
-- Cloud Cost, FinOps, Multi-Cloud
-
-#### Properties
-- [Documentation](https://www.certero.com/products/cloud-management/)
-
-### CerteroX Command Center / AI
-Federated reporting and analytics surface that aggregates data from ITAM, SAM, SaaS, and Cloud modules into a single pane of glass with AI-driven insights.
-
-**Human URL:** [https://www.certero.com/products/command-center/](https://www.certero.com/products/command-center/)
-
-#### Tags
-- Reporting, Analytics, AI, Dashboard
-
-#### Properties
-- [Documentation](https://www.certero.com/products/command-center/)
-
-### Certero ServiceNow Integration
-Certified ServiceNow integration that synchronises hardware, software, and license data from CerteroX into the ServiceNow CMDB and SAM Pro modules.
-
-**Human URL:** [https://store.servicenow.com/](https://store.servicenow.com/)
-
-#### Tags
-- ServiceNow, CMDB, ITSM, Connector
-
-#### Properties
-- [Marketplace](https://store.servicenow.com/)
-
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.certero.com)
-- [Products](https://www.certero.com/products/)
-- [Resources](https://www.certero.com/resources/)
-- [Blog](https://www.certero.com/blog/)
-- [CaseStudies](https://www.certero.com/case-studies/)
-- [Partners](https://www.certero.com/partners/)
+- [Getting started](https://www.certero.com/get-started/)
 - [Support](https://www.certero.com/support/)
-- [Contact](https://www.certero.com/contact/)
-- [Demo](https://www.certero.com/request-a-demo/)
-- [PrivacyPolicy](https://www.certero.com/privacy-policy/)
-- [LinkedIn](https://www.linkedin.com/company/certero/)
-- [X](https://x.com/Certero)
-- [YouTube](https://www.youtube.com/@CerteroSoftware)
-- [Careers](https://www.certero.com/careers/)
+- [Blog](https://www.certero.com/blog/)
+- [Terms of service](https://www.certero.com/terms/)
+- [Privacy policy](https://www.certero.com/privacy-policy/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 14.7** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 70.5 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 18.4 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 9.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/certero/](https://apis.io/providers/certero/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Certero: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/certero/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
